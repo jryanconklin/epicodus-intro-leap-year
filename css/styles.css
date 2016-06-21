@@ -1,3 +1,5 @@
-#result {
+#result,
+#error {
   display: none;
+  padding-top: 4px;
 }
