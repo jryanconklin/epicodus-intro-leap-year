@@ -1,4 +1,4 @@
-## Project Name
+## Leap Year Checker
 Epicodus: Leap Year Project
 
 ## Features
